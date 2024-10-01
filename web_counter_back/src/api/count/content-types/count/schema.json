@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "counts",
+  "info": {
+    "singularName": "count",
+    "pluralName": "counts",
+    "displayName": "count",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "num": {
+      "type": "integer",
+      "default": 0
+    }
+  }
+}
